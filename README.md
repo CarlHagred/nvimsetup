@@ -1,3 +1,7 @@
+# LUA NVIM CONFIG
+
+An Nvim setup for Python, Rust and Go
+
 # How to use
 
 To install this for your neovim configuration
