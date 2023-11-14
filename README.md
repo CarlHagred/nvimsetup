@@ -15,5 +15,9 @@ Then open up neovim and let everything install.
 Restart Neovim and install the treesitter syntax
 
 ```
-:TSInstall python
+Lazy install
+```
+
+```
+:TSInstall python, rust, go
 ```
